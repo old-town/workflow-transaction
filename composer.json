@@ -6,7 +6,7 @@
     "zf",
     "module",
     "transaction",
-    "workflow",
+    "workflow"
   ],
   "license": "GPL-3.0",
   "authors": [
