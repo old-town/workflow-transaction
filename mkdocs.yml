@@ -1,0 +1,7 @@
+docs_dir: doc/book/ru
+pages:
+    - index.md
+site_name: workflow-transaction
+site_description: 'Поддержка транзакций в workflow'
+repo_url: 'https://github.com/old-town/workflow-transaction'
+copyright: 'Copyright (c) 2016 <a href="https://github.com/old-town/">OldTown</a>'
